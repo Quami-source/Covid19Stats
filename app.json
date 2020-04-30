@@ -1,0 +1,17 @@
+{
+  "name": "covid19Stats",
+  "displayName": "covid19Stats",
+  "expo": {
+    "name": "covid19Stats",
+    "slug": "covid19Stats",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
